@@ -15,4 +15,4 @@ Runbicon 404 and 604
 REFERENCE Class A 5.0 & 10.0
 Soundstream Reference 414s, Reference 300s, Reference 300sx, Reference 500s, Reference 500sx, Reference 700s, Reference 700sx, Reference 1000s, Reference 1000sx, Refernce 644s, Rubicon 302 among others.
 
-In order to create this project I've used the arduino UNO platform, a bluetooth module and some circuitry for the hardware part. For controlling the mentioned hardware I've created an Android application using MIT App Inventor which is an open source environment designed for developing Andorid Apps. 
+In order to develop this project I've used the seeed Xiao ESP32C3 platform, with built in bluetooth module and some circuitry for the hardware part. For controlling the mentioned hardware I've created an Android application using MIT App Inventor which is an open source environment designed for developing Andorid Apps. App for Iphone will be developed in the future work.
