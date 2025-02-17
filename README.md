@@ -6,6 +6,7 @@ Car audio old school is becoming popular nowadays, that is why I've decided to r
 
 This accesory was compatible with a few Soundstream amplifiers with the ability to receive the Soundstream Airbass hardware, some of the models are: 
 Soundstream Human Reign HR2 First Gen
+Tarantula First Edition circa 1997
 RUB500-2
 RUB600-4
 RUB1000-2
