@@ -13,7 +13,7 @@ RUB1000-2
 Davinci Limited Edition amplifier
 REFERENCE 405s
 REFERENCE 705s
-Runbicon 404, 604, Rubicon 302
+Rubicon 404, 604, Rubicon 302
 REFERENCE Class A 5.0 & 10.0
 Soundstream Reference 414s, Reference 300s, Reference 300sx, Reference 500s, Reference 500sx, Reference 700s, Reference 700sx, Reference 1000s, Reference 1000sx, Reference 644s among others.
 
