@@ -5,11 +5,13 @@ NOTE: This project is still in progress.
 Car audio old school is becoming popular nowadays, that is why I've decided to recreate an accessory which was popular back in the day, but now is hard to find. I am talking about the Soundstream Airbass which is a wireless subwoofer volume controller.
 
 This accesory was compatible with a few Soundstream amplifiers with the ability to receive the Soundstream Airbass hardware, some of the models are: 
+
 Soundstream Human Reign HR2 First Gen
 Tarantula First Edition circa 1997
 RUB500-2
 RUB600-4
 RUB1000-2
+RUBICON CLASS A 5.2
 Davinci Limited Edition amplifier
 REFERENCE 405s
 REFERENCE 705s
